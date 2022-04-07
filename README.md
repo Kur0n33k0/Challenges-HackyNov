@@ -6,6 +6,17 @@
   ![Twitter Follow](https://img.shields.io/twitter/follow/HackyNov?color=%231d9bf0&label=Twitter&style=for-the-badge)
   ![Twitch Status](https://img.shields.io/twitch/status/hackynov?color=%23772ce8&style=for-the-badge)
   ![GitHub repo size](https://img.shields.io/github/repo-size/Kur0n33k0/HackyNov_CTFD?style=for-the-badge)
+  
+  <p>Follow us on</p>
+  <a href="www.linkedin.com/company/hacky-nov/">Linkedin</a>
+  •
+  <a href="https://twitter.com/HackyNov">Twitter</a>
+  •
+  <a href="https://discord.gg/JGue7PhV">Discord</a>
+  •
+  <a href="https://www.twitch.tv/hackynov">Twitch</a>
+  •
+  <a href="">Youtube (coming soon)</a>
 </div>
 
 ----
@@ -39,15 +50,3 @@ For the first edition which took place on April 01 2022, there were a total of 9
 - System
 
 In this repository, you will have access to challenges that I created for the event (Mostly for beginners).
-
-----
-
-# More
-
-You can follow us on 
-
-Linkedin: www.linkedin.com/company/hacky-nov/<br>
-Twitter: https://twitter.com/HackyNov<br>
-Discord: https://discord.gg/JGue7PhV<br>
-Twitch: https://www.twitch.tv/hackynov<br>
-Youtube: (Coming soon)
