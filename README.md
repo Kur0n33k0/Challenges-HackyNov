@@ -8,7 +8,7 @@
   ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/Kur0n33k0/HackyNov_CTFD?color=green&label=size&style=for-the-badge)
   
   <p>Follow us on</p>
-  <a href="www.linkedin.com/company/hacky-nov/">Linkedin</a>
+  <a href="https://www.linkedin.com/company/hacky-nov/">Linkedin</a>
   •
   <a href="https://twitter.com/HackyNov">Twitter</a>
   •
