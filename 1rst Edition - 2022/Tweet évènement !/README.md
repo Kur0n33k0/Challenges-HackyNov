@@ -1,5 +1,5 @@
 <div align="center">
-  <a href="https://hackynov.fr"><img src="https://i.imgur.com/XGJF8Xu.png" alt="Hacky'Nov" width="50%"></a>
+  <a href="https://hackynov.fr"><img src="https://i.imgur.com/XGJF8Xu.png" alt="Hacky'Nov" width="25%"></a>
   <br><br>
   
   ![Discord](https://img.shields.io/discord/897766049099956284?label=Discord&style=for-the-badge)
