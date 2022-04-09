@@ -21,32 +21,28 @@
 
 ----
 
-# Presentation
+# Challenge
 
-Hacky'Nov is a french CTF event organized by studient from Ynov school (from Bachelor 1 to Mastere 2) at Aix-en-Provence.
+The challenge is as follows: 
 
-This event is oriented around 3 principal subjects :
-
-- The first part of the event is dedicated to conferences. They can be perform by student or by external speakers to sensibilized and formed around various subject of cybersecurity
-
-- The second is the CTF (Capture The Flag). Each student, from Bachelor 1 to Master 2 create challenges around cybersecurity for beginners as well as for the most experienced!
-
-- The third and last part allows to organize the meeting of the students with companies working around cybersecurity. The event's partner companies will have a unique space dedicated to connecting with the participants, who are mostly cybersecurity students.
+>Tweet from the official Hacky'Nov page:
+>
+>>Évènｅmｅnt ＣTＦＤ à Аiｘ-eｎ－Prονenｃｅ ｌe 1 ｅt ２ ａνｒil ２02２， ⅴenez nоｍbreｕｘ !
+>
+>*Answer to be entered in the format HACKYNOV{flag}*
 
 ----
 
-# Challenges
+# Solution
 
-For the first edition which took place on April 01 2022, there were a total of 9 main categories and 50 challenges :
+The solution here is pretty simple. We can see that the font is weird and we know that it's a tweet from Hacky'nov page.
 
-- Misc
-- Web
-- Programming
-- Network
-- Lockpicking
-- Reverse
-- Cryptanalysis
-- Steganography
-- System
+From a simple research on google with words like "secret tweet", we can found interesting things like the **"steg of the dump"** method.
 
-In this repository, you will have access to challenges that I created for the event (Mostly for beginners).
+On a site like https://holloway.nz/steg/ we can copy/past the tweet we have to decode.
+
+<img src="https://i.imgur.com/bvKxPkq.png">
+
+Now we just have to enter the flag who's HACKYNOV{easy_secret_message}
+
+**AND GOOD JOB IT'S DONE !**
