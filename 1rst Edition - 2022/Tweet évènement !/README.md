@@ -20,8 +20,16 @@
 </div>
 
 ----
+## Contact me
 
-# Challenge "Tweet Evènement !"
+Pseudo : Kur0n33k0<br/>
+Pro : [Antoine Sirven](https://www.linkedin.com/in/antoine-sirven-as/)
+
+# Write-up
+
+| Challenge name  | Category | Points | Submissions | Autor |
+|-----------------|---------------|------------------|----------------------|----------------------|
+| Tweet Evenement !      | Steganography  | 100 | 08/11 | [Kur0n33k0](https://www.linkedin.com/in/antoine-sirven-as/)|
 
 The challenge is as follows: 
 
@@ -31,9 +39,6 @@ The challenge is as follows:
 >
 >*Answer to be entered in the format HACKYNOV{flag}*
 
-----
-
-# Solution
 
 The solution here is pretty simple. We can see that the font is weird and we know that it's a tweet from Hacky'nov page.
 
@@ -43,6 +48,7 @@ On a site like https://holloway.nz/steg/ we can copy/past the tweet we have to d
 
 <img src="https://i.imgur.com/bvKxPkq.png">
 
-Now we just have to enter the flag who's HACKYNOV{easy_secret_message}
+When decode we got "easy_secret_message"
 
+**FLAG: HACKYNOV{easy_secret_message}**
 **AND GOOD JOB IT'S DONE !**

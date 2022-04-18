@@ -48,7 +48,7 @@ Misc - Web - Programming - Network - Lockpicking - Reverse - Cryptanalysis - Ste
 | Challenge name            | Categories     | Points | Submissions | Autor |
 |-----------------------------|---------------|------------------|----------------------|----------|
 | [Caesar](https://github.com/Kur0n33k0/HackyNov_CTFD/tree/main/1rst%20Edition%20-%202022/Caesar) | Cryptanalysis | 50 | 10/11 | [Kur0n33k0](https://www.linkedin.com/in/antoine-sirven-as/)|
-| Loupe | Cryptanalysis | 50 | 09/11 | |
+| [Loupe]((https://github.com/Kur0n33k0/HackyNov_CTFD/tree/main/1rst%20Edition%20-%202022/Fanclub%20des%20escargots)) | Cryptanalysis | 50 | 09/11 |[Kur0n33k0](https://www.linkedin.com/in/antoine-sirven-as/)|
 | [Binary God](https://github.com/Kur0n33k0/HackyNov_CTFD/tree/main/1rst%20Edition%20-%202022/Binary%20God) | Cryptanalysis | 100 | 08/11 | [Kur0n33k0](https://www.linkedin.com/in/antoine-sirven-as/)|
 | [Robuste (apparemment)](https://github.com/VodyHD/Hacky-Nov-Write-Up-2022/tree/main/Robuste) | Cryptanalysis  | 150 | 06/11 |[VodyHD](https://www.linkedin.com/in/thomas-quernec/)| 
 | [Silverlake Part 2](https://github.com/MSARTORIBOUTY/silverlake/tree/main/partie%202) | Cryptanalysis | 200 | 02/11 | [TheSleepyOtter](https://www.linkedin.com/in/marie-laure-sartori-bouty/)  & [Linaa](https://www.linkedin.com/in/lina-alem-4963601b6/)|
@@ -76,7 +76,7 @@ Misc - Web - Programming - Network - Lockpicking - Reverse - Cryptanalysis - Ste
 | [Reveasy](https://github.com/VodyHD/Hacky-Nov-Write-Up-2022/tree/main/Reveasy/) | Reverse | 50 | 10/11 |[VodyHD](https://www.linkedin.com/in/thomas-quernec/)|
 | Coffre fort | Reverse | 300 | 06/11 | |
 | Weak Vault | Reverse | 200 | 09/11 | |
-| [Escargot familly](1rst%20Edition%20-%202022/) | Steganography | 50 | 09/11 | [Kur0n33k0](https://www.linkedin.com/in/antoine-sirven-as/)|
+| [Escargot family](1rst%20Edition%20-%202022/) | Steganography | 50 | 09/11 | [Kur0n33k0](https://www.linkedin.com/in/antoine-sirven-as/)|
 | [Soloscargot](1rst%20Edition%20-%202022/) | Steganography | 50 | 10/11 | [Kur0n33k0](https://www.linkedin.com/in/antoine-sirven-as/)|
 | [Tweet évènement !](https://github.com/Kur0n33k0/HackyNov_CTFD/tree/main/1rst%20Edition%20-%202022/Tweet%20%C3%A9v%C3%A8nement%20!) | Steganography | 100 | 08/11 | [Kur0n33k0](https://www.linkedin.com/in/antoine-sirven-as/)|
 | [Cat](1rst%20Edition%20-%202022/) | Steganography | 200 | 09/11 | [Kur0n33k0](https://www.linkedin.com/in/antoine-sirven-as/)|
