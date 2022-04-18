@@ -35,7 +35,7 @@ This event is oriented around 3 principal subjects :
 
 ----
 
-# Challenges
+# 1rst Edition - Challenges
 
 For the first edition which took place on April 01 2022, there were a total of 9 main categories and 50 challenges :
 
