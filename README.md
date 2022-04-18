@@ -20,6 +20,10 @@
 </div>
 
 ----
+## Contact me
+
+Pseudo : Kur0n33k0<br/>
+Pro : [Antoine Sirven](https://www.linkedin.com/in/antoine-sirven-as/)
 
 # Presentation
 
