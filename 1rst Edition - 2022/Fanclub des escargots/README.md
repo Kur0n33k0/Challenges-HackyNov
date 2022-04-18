@@ -31,17 +31,21 @@ Pro : [Antoine Sirven](https://www.linkedin.com/in/antoine-sirven-as/)
 |-----------------|---------------|------------------|----------------------|----------------------|
 | Loupe      | Steganography  | 50 | 09/11 | [Kur0n33k0](https://www.linkedin.com/in/antoine-sirven-as/)|
 
-When navigating on the site, we can found this image where there is a lot of snails (from where the family).
+When navigating on the site, we can found 2 encrypted messages.
 
-<img src="https://i.imgur.com/Kc17JCm.png" alt="Escargot family">
+<img src="https://i.imgur.com/oYeZ6f2.png">
+<img src="https://i.imgur.com/SlQnpjF.png"> when zoom in,<br/>
+<img src="https://i.imgur.com/9PfCITr.png">
 
-When zoom in at the top right of the image we can distinguish that there is something write here.
+For the caesar code, in a decoder like [decode](https://www.dcode.fr/chiffre-cesar),<br/>
 
-<img src="https://i.imgur.com/LgDbf4Q.png" alt="Escargot family">
+<img src="https://i.imgur.com/urLdKQO.png">
 
-We can read "Fl4g1n1m4g3".
+For the hexa code, in a decoder like [convertstring](https://www.convertstring.com/fr/EncodeDecode/HexDecode),<br/>
 
-**FLAG: HACKYNOV{Fl4g1n1m4g3}**
+<img src="https://i.imgur.com/6uzz31W.png">
+
+**FLAG: HACKYNOV{Salutcestducodecesar&S0m3th1ngGr34t}**
 **AND GOOD JOB IT'S DONE !**
 
 ----
