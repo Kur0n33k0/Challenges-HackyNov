@@ -41,5 +41,5 @@ When decode we got the output with "HACKYNOV{zef2cjb*jug4tpm5NQC}"
 
 <img src="https://i.imgur.com/mLMgDan.png">
 
-***FLAG: HACKYNOV{zef2cjb*jug4tpm5NQC}<br/>
-**AND GOOD JOB IT'S DONE !
+***FLAG: HACKYNOV{zef2cjb*jug4tpm5NQC}***<br/>
+**AND GOOD JOB IT'S DONE !**
