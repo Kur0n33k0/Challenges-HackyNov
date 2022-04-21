@@ -48,7 +48,7 @@ On a site like https://holloway.nz/steg/ we can copy/past the tweet we have to d
 
 <img src="https://i.imgur.com/bvKxPkq.png">
 
-When decode we got "easy_secret_message"
+When decode we get "easy_secret_message"
 
 **FLAG: HACKYNOV{easy_secret_message}**
 **AND GOOD JOB IT'S DONE !**
