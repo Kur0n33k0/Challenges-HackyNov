@@ -37,7 +37,7 @@ Whith some search, we can found stegsnow who's used to hide a message in a text 
 
 <img src="https://i.imgur.com/vuVLucm.png">
 
-When decode we got the output <br/>
+When decode we get the output <br/>
 
 <img src="https://i.imgur.com/mLMgDan.png">
 
