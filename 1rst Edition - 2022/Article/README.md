@@ -33,7 +33,7 @@ Pro : [Antoine Sirven](https://www.linkedin.com/in/antoine-sirven-as/)
 
 An article in a file is linked to the challenge with many empty lines at the end, so maybe there is something hide in.
 
-Whith some search, we can found stegsnow who's used to hide a message in a file.
+Whith some search, we can found stegsnow who's used to hide a message in a text file.
 
 <img src="https://i.imgur.com/vuVLucm.png">
 
