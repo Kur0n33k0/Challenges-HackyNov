@@ -31,15 +31,16 @@ Pro : [Antoine Sirven](https://www.linkedin.com/in/antoine-sirven-as/)
 |-----------------|---------------|------------------|----------------------|----------------------|
 | Binary God      | Cryptanalysis  | 100 | 08/11 | [Kur0n33k0](https://www.linkedin.com/in/antoine-sirven-as/)|
 
-<img src="https://i.imgur.com/rLBXSz1.png" alt="Binary God" width="50%" align="center">
+<div align="center">
+  <img src="https://i.imgur.com/rLBXSz1.png" alt="Binary God" width="70%">
+</div><br/>
 
-When reading, we can understand that "06879054" is the number to call the Binary God. So we turn it into binary.
+When reading, we can understand that "**06879054**" is the number to call the Binary God. So we turn it into binary.
 
-In any converter, we get 00110000 00110110 00111000 00110111 00111001 00110000 00110101 00110100.
+In any converter, we get **00110000 00110110 00111000 00110111 00111001 00110000 00110101 00110100**.
 
 The symbol on top of the page is that of XOR who is a type of additive cipher. So we take the binary previously found and we decrypt "|S\^\EQAR_VVPBPQH_KC\@TG" using the binary as a key.
 
-After the decryption is complet, we got "Ledieudubinaireexistepas".
+After the decryption is complet, we get "**Ledieudubinaireexistepas**".
 
 **FLAG: HACKYNOV{Ledieudubinaireexistepas}**
-**AND GOOD JOB IT'S DONE !**
