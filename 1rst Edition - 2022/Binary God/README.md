@@ -31,7 +31,7 @@ Pro : [Antoine Sirven](https://www.linkedin.com/in/antoine-sirven-as/)
 |-----------------|---------------|------------------|----------------------|----------------------|
 | Binary God      | Cryptanalysis  | 100 | 08/11 | [Kur0n33k0](https://www.linkedin.com/in/antoine-sirven-as/)|
 
-<img src="https://i.imgur.com/rLBXSz1.png" alt="Binary God" width="50%">
+<img src="https://i.imgur.com/rLBXSz1.png" alt="Binary God" width="50%" align="center">
 
 When reading, we can understand that "06879054" is the number to call the Binary God. So we turn it into binary.
 
