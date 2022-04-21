@@ -31,7 +31,7 @@ Pro : [Antoine Sirven](https://www.linkedin.com/in/antoine-sirven-as/)
 |-----------------|---------------|------------------|----------------------|----------------------|
 | Article      | Steganography  | 200 | 07/11 | [Kur0n33k0](https://www.linkedin.com/in/antoine-sirven-as/)|
 
-An artticle in a file is linked to the challenge with many empty lines, so maybe there is something hide in.
+An article in a file is linked to the challenge with many empty lines at the end, so maybe there is something hide in.
 
 Whith some search, we can found stegsnow who's used to hide a message in a file.
 
@@ -41,5 +41,5 @@ When decode we got the output with "HACKYNOV{zef2cjb*jug4tpm5NQC}"
 
 <img src="https://i.imgur.com/mLMgDan.png">
 
-**FLAG: HACKYNOV{zef2cjb*jug4tpm5NQC}**
+**FLAG: HACKYNOV{zef2cjb*jug4tpm5NQC}**<br/>
 **AND GOOD JOB IT'S DONE !**
