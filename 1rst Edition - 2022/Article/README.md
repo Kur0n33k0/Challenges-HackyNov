@@ -7,7 +7,7 @@
   ![Twitch Status](https://img.shields.io/twitch/status/hackynov?color=%23772ce8&style=for-the-badge)
   ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/Kur0n33k0/HackyNov_CTFD?color=green&label=size&style=for-the-badge)
   
-  <p>Follow us on</p>
+  <p>Follow us on »</p>
   <a href="https://www.linkedin.com/company/hacky-nov/">Linkedin</a>
   •
   <a href="https://twitter.com/HackyNov">Twitter</a>
