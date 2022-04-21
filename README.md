@@ -96,5 +96,3 @@ Misc - Web - Programming - Network - Lockpicking - Reverse - Cryptanalysis - Ste
 | La Coquille | Web | 500 | 03/11 | |
 | [Discord](https://github.com/Kur0n33k0/HackyNov_CTFD/tree/main/1rst%20Edition%20-%202022/HackyBot) | Welcome ! | 50 | 074/11 | [Kur0n33k0](https://www.linkedin.com/in/antoine-sirven-as/)|
 | Twitter | Welcome ! | 20 | 10/11 | [Hacky'Nov](https://hackynov.fr/)|
-
-In this repository, you will have access to challenges that I've created for the event (Mostly for beginners).
