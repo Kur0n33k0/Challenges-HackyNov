@@ -27,7 +27,7 @@ Pro : [Antoine Sirven](https://www.linkedin.com/in/antoine-sirven-as/)
 
 # Presentation
 
-Hacky'Nov is a french CTF event organized by student from Ynov school (from Bachelor 1 to Mastere 2) at Aix-en-Provence.
+Hacky'Nov is a french CTF event organized by students from Ynov school (from Bachelor 1 to Mastere 2) at Aix-en-Provence.
 
 This event is oriented around 3 principal subjects :
 
