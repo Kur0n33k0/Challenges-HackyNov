@@ -95,4 +95,4 @@ Misc - Web - Programming - Network - Lockpicking - Reverse - Cryptanalysis - Ste
 | Mot'Aix - Part 2 | Web | 300 | 06/11 | |
 | La Coquille | Web | 500 | 03/11 | |
 | [Discord](https://github.com/Kur0n33k0/HackyNov_CTFD/tree/main/1rst%20Edition%20-%202022/HackyBot) | Welcome ! | 50 | 074/11 | [Kur0n33k0](https://www.linkedin.com/in/antoine-sirven-as/)|
-| Twitter | Welcome ! | 20 | 10/11 | [Hacky'Nov](https://hackynov.fr/)|
+| [Twitter](https://twitter.com/HackyNov) | Welcome ! | 20 | 10/11 | [Hacky'Nov](https://hackynov.fr/)|
