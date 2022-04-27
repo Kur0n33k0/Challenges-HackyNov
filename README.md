@@ -60,7 +60,7 @@ Misc - Web - Programming - Network - Lockpicking - Reverse - Cryptanalysis - Ste
 | HackyLock | Lockpicking | 100 | 08/11 | |
 | Vélo | Lockpicking | 500 | 03/11 | [Kur0n33k0](https://www.linkedin.com/in/antoine-sirven-as/)|
 | [Zipette](https://github.com/VodyHD/Hacky-Nov-Write-Up-2022/tree/main/Zipette/) | Miscellaneous | 600 | 01/11 |[VodyHD](https://www.linkedin.com/in/thomas-quernec/)|
-| [Stalker](https://github.com/HackyNov/1st-edition-2022/blob/main/WriteUp_Stalker.pdf) | Miscellaneous | 800 | 02/11 | M4c130d |
+| [Stalker](https://github.com/HackyNov/1st-edition-2022/blob/main/WriteUP_Stalker.pdf) | Miscellaneous | 800 | 02/11 | M4c130d |
 | [Silverlake Part 3](https://github.com/MSARTORIBOUTY/silverlake/tree/main/partie%203) | OSINT | 200 | 01/11 | [TheSleepyOtter](https://www.linkedin.com/in/marie-laure-sartori-bouty/) & [Linaa](https://www.linkedin.com/in/lina-alem-4963601b6/)|
 | [Silverlake Part 5](https://github.com/MSARTORIBOUTY/silverlake/tree/main/partie%205) | Programming | 100 | 01/11 | [TheSleepyOtter](https://www.linkedin.com/in/marie-laure-sartori-bouty/) & [Linaa](https://www.linkedin.com/in/lina-alem-4963601b6/)|
 | [Unexpected Services](https://github.com/Cursecure/CTF_HackyNov/tree/main/1rst%20Edition%20-%202022/Unexpected%20Services) | Programming | 800 | 02/11 | [Cursecure](https://github.com/Cursecure)|
@@ -93,7 +93,7 @@ Misc - Web - Programming - Network - Lockpicking - Reverse - Cryptanalysis - Ste
 | Boite à cookies | Web | 200 | 06/11 | |
 | [Mot'Aix - Part 1](https://github.com/v4ss/Hacky_Nov_Write_Up_2022) | Web | 250 | 07/11 | [v4ss](https://github.com/v4ss) |
 | [Mot'Aix - Part 2](https://github.com/v4ss/Hacky_Nov_Write_Up_2022) | Web | 300 | 06/11 | [v4ss](https://github.com/v4ss) |
-| [La Coquille](https://github.com/HackyNov/1st-edition-2022/blob/main/WriteUp_La_Coquille.pdf) | Web | 500 | 03/11 | M4c130d |
+| [La Coquille](https://github.com/HackyNov/1st-edition-2022/blob/main/WriteUP_La_Coquille.pdf) | Web | 500 | 03/11 | M4c130d |
 | [Murder](https://github.com/V3luxx/Hacky-nov-Writeup-2022) | Web | 200 | 09/11 | [V3luxx](https://github.com/V3luxx) |
 | [Discord](https://github.com/Kur0n33k0/HackyNov_CTFD/tree/main/1rst%20Edition%20-%202022/HackyBot) | Welcome ! | 50 | 07/11 | [Kur0n33k0](https://www.linkedin.com/in/antoine-sirven-as/)|
 | [Twitter](https://twitter.com/HackyNov) | Welcome ! | 20 | 10/11 | [Hacky'Nov](https://hackynov.fr/)|
