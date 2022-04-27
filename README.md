@@ -88,13 +88,8 @@ Misc - Web - Programming - Network - Lockpicking - Reverse - Cryptanalysis - Ste
 | [Perfect Lab](https://github.com/tialocRT/Hacky-Nov-Write-Up-2022/tree/main/Perfect_Lab) | Web | 800 | 03/11 | [Tialoc](https://github.com/tialocRT) |
 | [Silverlake Part 1](https://github.com/MSARTORIBOUTY/silverlake/tree/main/partie%204) | Web | 150 | 06/11 | [TheSleepyOtter](https://www.linkedin.com/in/marie-laure-sartori-bouty/) & [Linaa](https://www.linkedin.com/in/lina-alem-4963601b6/)|
 | [Administration](https://github.com/HackyNov/1st-edition-2022/blob/main/Write_Up_Administration.pdf) | Web | 150 | 02/11 | Balatre Grégory & Mounier Matthieu |
-<<<<<<< HEAD
 | [Time To Plane](https://lololekik.com/writeups/hackynov2022/) | Web | 450 | 02/11 | [LOLOLEKIK](https://lololekik.com/)|
 | [RECOAPP](https://lololekik.com/writeups/hackynov2022/) | Web | 700 | 02/11 | [LOLOLEKIK](https://lololekik.com/)|
-=======
-| Time To Plane | Web | 450 | 02/11 | [LOLOLEKIK](https://lololekik.com/)|
-| RECOAPP | Web | 700 | 02/11 | [LOLOLEKIK](https://lololekik.com/)|
->>>>>>> ec26c6ae84470c6d85511001c6de1ea7b9a170f7
 | Boite à cookies | Web | 200 | 06/11 | |
 | [Mot'Aix - Part 1](https://github.com/v4ss/Hacky_Nov_Write_Up_2022) | Web | 250 | 07/11 | [v4ss](https://github.com/v4ss) |
 | [Mot'Aix - Part 2](https://github.com/v4ss/Hacky_Nov_Write_Up_2022) | Web | 300 | 06/11 | [v4ss](https://github.com/v4ss) |
