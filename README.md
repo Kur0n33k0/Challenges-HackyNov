@@ -69,7 +69,7 @@ Misc - Web - Programming - Network - Lockpicking - Reverse - Cryptanalysis - Ste
 | HackyPwn | Programming | 800 | 04/11 | |
 | Hacky'Piece #1 | Programming | 250 | 06/11 | [LOLOLEKIK](https://lololekik.com/)|
 | Hacky'Piece #2 | Programming | 600 | 05/11 | [LOLOLEKIK](https://lololekik.com/)|
-| Invest'PCAP | Network | 600 | 04/11 | |
+| [Invest'PCAP](https://github.com/tialocRT/Hacky-Nov-Write-Up-2022/tree/main/Invest_PCAP) | Network | 600 | 04/11 | [Tialoc](https://github.com/tialocRT)|
 | [Silverlake Part 4](https://github.com/MSARTORIBOUTY/silverlake/tree/main/partie%204) | Network | 100 | 01/11 | [TheSleepyOtter](https://www.linkedin.com/in/marie-laure-sartori-bouty/) & [Linaa](https://www.linkedin.com/in/lina-alem-4963601b6/)|
 | Baby_Cisconnect | Network | 100 | 10/11 | |
 | BrokenRansom | Reverse | 300 | 07/11 | |
@@ -85,7 +85,7 @@ Misc - Web - Programming - Network - Lockpicking - Reverse - Cryptanalysis - Ste
 | [Connexion](https://github.com/Kur0n33k0/HackyNov_CTFD/tree/main/1rst%20Edition%20-%202022/Connexion) | Web | 75 | 11/11 | [Kur0n33k0](https://www.linkedin.com/in/antoine-sirven-as/)|
 | [Formulaire](1rst%20Edition%20-%202022/) | Web | 50 | 09/11 | [Kur0n33k0](https://www.linkedin.com/in/antoine-sirven-as/)|
 | [Commentaire](1rst%20Edition%20-%202022/) | Web | 50 | 10/11 | [Kur0n33k0](https://www.linkedin.com/in/antoine-sirven-as/)|
-| Perfect Lab | Web | 800 | 03/11 | |
+| [Perfect Lab](https://github.com/tialocRT/Hacky-Nov-Write-Up-2022/tree/main/Perfect_Lab) | Web | 800 | 03/11 | [Tialoc](https://github.com/tialocRT) |
 | [Silverlake Part 1](https://github.com/MSARTORIBOUTY/silverlake/tree/main/partie%204) | Web | 150 | 06/11 | [TheSleepyOtter](https://www.linkedin.com/in/marie-laure-sartori-bouty/) & [Linaa](https://www.linkedin.com/in/lina-alem-4963601b6/)|
 | Administration | Web | 150 | 02/11 | |
 | Time To Plane | Web | 450 | 02/11 | [LOLOLEKIK](https://lololekik.com/)|
