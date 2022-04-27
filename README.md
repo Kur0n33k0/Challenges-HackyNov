@@ -27,7 +27,7 @@ Pro : [Antoine Sirven](https://www.linkedin.com/in/antoine-sirven-as/)
 
 # Presentation
 
-Hacky'Nov is a french CTF event organized by studient from Ynov school (from Bachelor 1 to Mastere 2) at Aix-en-Provence.
+Hacky'Nov is a french CTF event organized by students from Ynov school (from Bachelor 1 to Mastere 2) at Aix-en-Provence.
 
 This event is oriented around 3 principal subjects :
 
@@ -60,18 +60,18 @@ Misc - Web - Programming - Network - Lockpicking - Reverse - Cryptanalysis - Ste
 | HackyLock | Lockpicking | 100 | 08/11 | |
 | Vélo | Lockpicking | 500 | 03/11 | [Kur0n33k0](https://www.linkedin.com/in/antoine-sirven-as/)|
 | [Zipette](https://github.com/VodyHD/Hacky-Nov-Write-Up-2022/tree/main/Zipette/) | Miscellaneous | 600 | 01/11 |[VodyHD](https://www.linkedin.com/in/thomas-quernec/)|
-| Stalker | Miscellaneous | 800 | 02/11 | |
+| [Stalker](https://github.com/HackyNov/1st-edition-2022/blob/main/WriteUP_Stalker.pdf) | Miscellaneous | 800 | 02/11 | M4c130d |
 | [Silverlake Part 3](https://github.com/MSARTORIBOUTY/silverlake/tree/main/partie%203) | OSINT | 200 | 01/11 | [TheSleepyOtter](https://www.linkedin.com/in/marie-laure-sartori-bouty/) & [Linaa](https://www.linkedin.com/in/lina-alem-4963601b6/)|
 | [Silverlake Part 5](https://github.com/MSARTORIBOUTY/silverlake/tree/main/partie%205) | Programming | 100 | 01/11 | [TheSleepyOtter](https://www.linkedin.com/in/marie-laure-sartori-bouty/) & [Linaa](https://www.linkedin.com/in/lina-alem-4963601b6/)|
-| Unexpected Services | Programming | 800 | 02/11 | |
+| [Unexpected Services](https://github.com/Cursecure/CTF_HackyNov/tree/main/1rst%20Edition%20-%202022/Unexpected%20Services) | Programming | 800 | 02/11 | [Cursecure](https://github.com/Cursecure)|
 | PoPTheFlag | Programming | 600 | 04/11 | |
 | FlagOverflow | Programming | 600 | 04/11 | |
 | HackyPwn | Programming | 800 | 04/11 | |
 | Hacky'Piece #1 | Programming | 250 | 06/11 | [LOLOLEKIK](https://lololekik.com/)|
 | Hacky'Piece #2 | Programming | 600 | 05/11 | [LOLOLEKIK](https://lololekik.com/)|
-| Invest'PCAP | Network | 600 | 04/11 | |
+| [Invest'PCAP](https://github.com/tialocRT/Hacky-Nov-Write-Up-2022/tree/main/Invest_PCAP) | Network | 600 | 04/11 | [Tialoc](https://github.com/tialocRT)|
 | [Silverlake Part 4](https://github.com/MSARTORIBOUTY/silverlake/tree/main/partie%204) | Network | 100 | 01/11 | [TheSleepyOtter](https://www.linkedin.com/in/marie-laure-sartori-bouty/) & [Linaa](https://www.linkedin.com/in/lina-alem-4963601b6/)|
-| Baby_Cisconnect | Network | 100 | 10/11 | |
+| [Baby_Cisconnect](https://github.com/Cursecure/CTF_HackyNov/tree/main/1rst%20Edition%20-%202022/Baby_Cisconnect) | Network | 100 | 10/11 | [Cursecure](https://github.com/Cursecure) |
 | BrokenRansom | Reverse | 300 | 07/11 | |
 | [Reveasy](https://github.com/VodyHD/Hacky-Nov-Write-Up-2022/tree/main/Reveasy/) | Reverse | 50 | 10/11 |[VodyHD](https://www.linkedin.com/in/thomas-quernec/)|
 | Coffre fort | Reverse | 300 | 06/11 | |
@@ -85,14 +85,20 @@ Misc - Web - Programming - Network - Lockpicking - Reverse - Cryptanalysis - Ste
 | [Connexion](https://github.com/Kur0n33k0/HackyNov_CTFD/tree/main/1rst%20Edition%20-%202022/Connexion) | Web | 75 | 11/11 | [Kur0n33k0](https://www.linkedin.com/in/antoine-sirven-as/)|
 | [Formulaire](1rst%20Edition%20-%202022/) | Web | 50 | 09/11 | [Kur0n33k0](https://www.linkedin.com/in/antoine-sirven-as/)|
 | [Commentaire](1rst%20Edition%20-%202022/) | Web | 50 | 10/11 | [Kur0n33k0](https://www.linkedin.com/in/antoine-sirven-as/)|
-| Perfect Lab | Web | 800 | 03/11 | |
+| [Perfect Lab](https://github.com/tialocRT/Hacky-Nov-Write-Up-2022/tree/main/Perfect_Lab) | Web | 800 | 03/11 | [Tialoc](https://github.com/tialocRT) |
 | [Silverlake Part 1](https://github.com/MSARTORIBOUTY/silverlake/tree/main/partie%204) | Web | 150 | 06/11 | [TheSleepyOtter](https://www.linkedin.com/in/marie-laure-sartori-bouty/) & [Linaa](https://www.linkedin.com/in/lina-alem-4963601b6/)|
 | [Administration](https://github.com/HackyNov/1st-edition-2022/blob/main/Write_Up_Administration.pdf) | Web | 150 | 02/11 | Balatre Grégory & Mounier Matthieu |
+<<<<<<< HEAD
 | [Time To Plane](https://lololekik.com/writeups/hackynov2022/) | Web | 450 | 02/11 | [LOLOLEKIK](https://lololekik.com/)|
 | [RECOAPP](https://lololekik.com/writeups/hackynov2022/) | Web | 700 | 02/11 | [LOLOLEKIK](https://lololekik.com/)|
+=======
+| Time To Plane | Web | 450 | 02/11 | [LOLOLEKIK](https://lololekik.com/)|
+| RECOAPP | Web | 700 | 02/11 | [LOLOLEKIK](https://lololekik.com/)|
+>>>>>>> ec26c6ae84470c6d85511001c6de1ea7b9a170f7
 | Boite à cookies | Web | 200 | 06/11 | |
-| Mot'Aix - Part 1 | Web | 250 | 07/11 | |
-| Mot'Aix - Part 2 | Web | 300 | 06/11 | |
-| La Coquille | Web | 500 | 03/11 | |
-| [Discord](https://github.com/Kur0n33k0/HackyNov_CTFD/tree/main/1rst%20Edition%20-%202022/HackyBot) | Welcome ! | 50 | 074/11 | [Kur0n33k0](https://www.linkedin.com/in/antoine-sirven-as/)|
-| Twitter | Welcome ! | 20 | 10/11 | [Hacky'Nov](https://hackynov.fr/)|
+| [Mot'Aix - Part 1](https://github.com/v4ss/Hacky_Nov_Write_Up_2022) | Web | 250 | 07/11 | [v4ss](https://github.com/v4ss) |
+| [Mot'Aix - Part 2](https://github.com/v4ss/Hacky_Nov_Write_Up_2022) | Web | 300 | 06/11 | [v4ss](https://github.com/v4ss) |
+| [La Coquille](https://github.com/HackyNov/1st-edition-2022/blob/main/WriteUP_La_Coquille.pdf) | Web | 500 | 03/11 | M4c130d |
+| [Murder](https://github.com/V3luxx/Hacky-nov-Writeup-2022) | Web | 200 | 09/11 | [V3luxx](https://github.com/V3luxx) |
+| [Discord](https://github.com/Kur0n33k0/HackyNov_CTFD/tree/main/1rst%20Edition%20-%202022/HackyBot) | Welcome ! | 50 | 07/11 | [Kur0n33k0](https://www.linkedin.com/in/antoine-sirven-as/)|
+| [Twitter](https://twitter.com/HackyNov) | Welcome ! | 20 | 10/11 | [Hacky'Nov](https://hackynov.fr/)|
