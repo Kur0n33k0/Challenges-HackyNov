@@ -87,9 +87,9 @@ Misc - Web - Programming - Network - Lockpicking - Reverse - Cryptanalysis - Ste
 | [Commentaire](1rst%20Edition%20-%202022/) | Web | 50 | 10/11 | [Kur0n33k0](https://www.linkedin.com/in/antoine-sirven-as/)|
 | Perfect Lab | Web | 800 | 03/11 | |
 | [Silverlake Part 1](https://github.com/MSARTORIBOUTY/silverlake/tree/main/partie%204) | Web | 150 | 06/11 | [TheSleepyOtter](https://www.linkedin.com/in/marie-laure-sartori-bouty/) & [Linaa](https://www.linkedin.com/in/lina-alem-4963601b6/)|
-| Administration | Web | 150 | 02/11 | |
-| Time To Plane | Web | 450 | 02/11 | [LOLOLEKIK](https://lololekik.com/)|
-| RECOAPP | Web | 700 | 02/11 | [LOLOLEKIK](https://lololekik.com/)|
+| [Administration](https://github.com/HackyNov/1st-edition-2022/blob/main/Write_Up_Administration.pdf) | Web | 150 | 02/11 | Balatre Grégory & Mounier Matthieu |
+| [Time To Plane](https://lololekik.com/writeups/hackynov2022/) | Web | 450 | 02/11 | [LOLOLEKIK](https://lololekik.com/)|
+| [RECOAPP](https://lololekik.com/writeups/hackynov2022/) | Web | 700 | 02/11 | [LOLOLEKIK](https://lololekik.com/)|
 | Boite à cookies | Web | 200 | 06/11 | |
 | Mot'Aix - Part 1 | Web | 250 | 07/11 | |
 | Mot'Aix - Part 2 | Web | 300 | 06/11 | |
