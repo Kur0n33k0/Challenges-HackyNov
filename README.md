@@ -23,8 +23,7 @@
 ## Contact me
 
 Pseudo : Kur0n33k0<br/>
-Pro : [Antoine Sirven](https://www.linkedin.com/in/antoine-sirven-as/)<br/>
-Site : [antoinesirven.fr](https://www.antoinesirven.fr)
+Pro : [Antoine Sirven](https://www.linkedin.com/in/antoine-sirven-as/)
 
 # Presentation
 
